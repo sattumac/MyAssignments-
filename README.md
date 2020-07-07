@@ -7,15 +7,15 @@ All of In Session & Take Home Exercises are Uploaded here
 ![5star QSlide](https://user-images.githubusercontent.com/61200623/86780352-4c7c9e80-c07a-11ea-8b67-4bfaf37f3cf1.jpg)
 <br>
 <h3>These are the Slides which are used to make 5 star question slide</h3><br>
-<h4>Death cases in maharashtra and it's neighbour  states</h4><br>
+<h4>Death cases in Maharashtra and it's neighbour  states</h4><br>
 
 ![Death cases](https://user-images.githubusercontent.com/61200623/86777873-5781ff80-c077-11ea-9e59-1be490175014.png)<br>
 
-<h4>Infected cases in maharashtra and it's neighbour  states</h4><br>
+<h4>Infected cases in Maharashtra and it's neighbour  states</h4><br>
 
 ![Infected](https://user-images.githubusercontent.com/61200623/86779056-bbf18e80-c078-11ea-84b8-bbb5652b4577.png)
 <br>
-<h4>Recovered cases in maharashtra and it's neighbour  states</h4><br>
+<h4>Recovered cases in Maharashtra and it's neighbour  states</h4><br>
 ![Recovered](https://user-images.githubusercontent.com/61200623/86780931-ee9c8680-c07a-11ea-851a-1311cd8ddfd2.png)
 
 
