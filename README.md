@@ -19,6 +19,7 @@ All of In Session & Take Home Exercises are Uploaded here
 ![Recovered](https://user-images.githubusercontent.com/61200623/86780931-ee9c8680-c07a-11ea-851a-1311cd8ddfd2.png)
 
 
+
 <br>
 <h1>Minor Project Slide</h1><br>
 ![Untitled presentation](https://user-images.githubusercontent.com/61200623/86773675-7f6f6400-c073-11ea-9407-649e5815970d.png)<br>
