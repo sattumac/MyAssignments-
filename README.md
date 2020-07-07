@@ -16,7 +16,8 @@ All of In Session & Take Home Exercises are Uploaded here
 ![Infected](https://user-images.githubusercontent.com/61200623/86779056-bbf18e80-c078-11ea-84b8-bbb5652b4577.png)
 <br>
 <h4>Recovered cases in maharashtra and it's neighbour  states</h4><br>
-![Recovered](https://user-images.githubusercontent.com/61200623/86779065-bdbb5200-c078-11ea-8169-b11082e9e6a9.png)
+![Recovered](https://user-images.githubusercontent.com/61200623/86780931-ee9c8680-c07a-11ea-851a-1311cd8ddfd2.png)
+
 
 <br>
 <h1>Minor Project Slide</h1><br>
