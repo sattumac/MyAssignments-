@@ -15,7 +15,7 @@ All of In Session & Take Home Exercises are Uploaded here
 <h1>Minor Project Slide</h1><br>
 ![Untitled presentation](https://user-images.githubusercontent.com/61200623/86773675-7f6f6400-c073-11ea-9407-649e5815970d.png)<br>
 <h3>graph of Maharashtra representing Recovered,Infected, and Death Cases</h3><br>
-![Maharashtra](https://user-images.githubusercontent.com/61200623/86773763-92823400-c073-11ea-8f51-ef52eb8a356a.png)<br>
+![Maharashtra](https://user-images.githubusercontent.com/61200623/86775630-2a345200-c075-11ea-99f2-521ddadad75e.png)<br>
 
 This Form is run from macOS 
 THE-2 Take Home Exercise 2
