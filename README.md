@@ -5,8 +5,8 @@ All of In Session & Take Home Exercises are Uploaded here
 <h1>5 star Question slide</h1><br>
 ![5 star question slide](https://user-images.githubusercontent.com/61200623/86774239-fad11580-c073-11ea-864e-8ec321442ee6.jpg)<br>
 <h3>These are the Slides which are used to make 5 star question slide</h3><br>
-<h4>Infected cases in maharashtra and it's neighbour  states</h4><br>
-![Infected cases](https://user-images.githubusercontent.com/61200623/86774760-759a3080-c074-11ea-98e3-cf3322e76c85.png)<br>
+<h4>Death cases in maharashtra and it's neighbour  states</h4><br>
+![Death cases](https://user-images.githubusercontent.com/61200623/86777429-c27f0680-c076-11ea-9cd8-b0623026c6dd.png)
 <h4>Infected cases in maharashtra and it's neighbour  states</h4><br>
 ![Infected](https://user-images.githubusercontent.com/61200623/86774643-5bf8e900-c074-11ea-9c5d-b8695de364aa.png)<br>
 <h4>Recovered cases in maharashtra and it's neighbour  states</h4><br>
