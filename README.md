@@ -3,8 +3,7 @@
 All of In Session & Take Home Exercises are Uploaded here
 <br>
 <h1>5 star Question slide</h1><br>
-![5 star question slide](https://user-images.githubusercontent.com/61200623/86778211-b9db0000-c077-11ea-8558-b006c00572ab.jpg)
-<br>
+![5star Slide](https://user-images.githubusercontent.com/61200623/86780098-fad41400-c079-11ea-8a09-c0249c74807a.jpg)<br>
 <h3>These are the Slides which are used to make 5 star question slide</h3><br>
 <h4>Death cases in maharashtra and it's neighbour  states</h4><br>
 
