@@ -22,6 +22,7 @@ All of In Session & Take Home Exercises are Uploaded here
 
 <br>
 <h1>Minor Project Slide</h1><br>
+The code file of minor project is Graph plotting.ipynb
 ![Untitled presentation](https://user-images.githubusercontent.com/61200623/86773675-7f6f6400-c073-11ea-9407-649e5815970d.png)<br>
 <h3>graph of Maharashtra representing Recovered,Infected, and Death Cases</h3><br>
 ![Maharashtra](https://user-images.githubusercontent.com/61200623/86779061-bd22bb80-c078-11ea-8b23-315f33e3d1d3.png)
