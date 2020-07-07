@@ -12,12 +12,16 @@ All of In Session & Take Home Exercises are Uploaded here
 
 <h4>Infected cases in maharashtra and it's neighbour  states</h4><br>
 
+![Infected](https://user-images.githubusercontent.com/61200623/86779056-bbf18e80-c078-11ea-84b8-bbb5652b4577.png)
+
 <h4>Recovered cases in maharashtra and it's neighbour  states</h4><br>
+![Recovered](https://user-images.githubusercontent.com/61200623/86779065-bdbb5200-c078-11ea-8169-b11082e9e6a9.png)
 
 
 <h1>Minor Project Slide</h1><br>
 ![Untitled presentation](https://user-images.githubusercontent.com/61200623/86773675-7f6f6400-c073-11ea-9407-649e5815970d.png)<br>
 <h3>graph of Maharashtra representing Recovered,Infected, and Death Cases</h3><br>
+![Maharashtra](https://user-images.githubusercontent.com/61200623/86779061-bd22bb80-c078-11ea-8b23-315f33e3d1d3.png)
 
 
 This Form is run from macOS 
