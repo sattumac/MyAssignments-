@@ -2,6 +2,7 @@
 
 All of In Session & Take Home Exercises are Uploaded here
 <br>
+Major Project is uploaded here<br>
 <h1>5 star Question slide</h1><br>
 
 ![5star QSlide](https://user-images.githubusercontent.com/61200623/86780352-4c7c9e80-c07a-11ea-8b67-4bfaf37f3cf1.jpg)
